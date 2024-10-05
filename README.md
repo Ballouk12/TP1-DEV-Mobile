@@ -1,6 +1,11 @@
-Application HelloToast
-Description
-L'application HelloToast est une simple application Android développée en Java avec Android Studio. Elle comprend deux boutons principaux et un champ texte (TextView). L'application effectue les tâches suivantes :
+
+Application HelloToast  
+
+Description  
+
+L'application HelloToast est une simple application Android développée en Java avec Android Studio. Elle comprend deux boutons principaux et un champ texte (TextView).  
+ 
+ L'application effectue les tâches suivantes :
 
 Bouton Toast : Affiche un message court (Toast) lorsqu'il est cliqué.
 Bouton Count : Incrémente un compteur à chaque clic et affiche la valeur mise à jour dans le champ texte (TextView).
