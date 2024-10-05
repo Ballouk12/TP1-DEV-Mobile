@@ -1,7 +1,7 @@
 
-#Application HelloToast  
+# Application HelloToast  
 
-##Description  
+## Description  
 
 L'application HelloToast est une simple application Android développée en Java avec Android Studio. Elle comprend deux boutons principaux et un champ texte (TextView).  
  
@@ -11,7 +11,7 @@ Bouton Toast : Affiche un message court (Toast) lorsqu'il est cliqué.
 
 Bouton Count : Incrémente un compteur à chaque clic et affiche la valeur mise à jour dans le champ texte (TextView).  
 
-##Fonctionnalités  
+## Fonctionnalités  
 
 Bouton Toast : Lorsque l'utilisateur appuie sur ce bouton, un message apparaît brièvement en bas de l'écran sous forme de Toast.  
 
@@ -24,7 +24,7 @@ Affichage du Toast : Cette fonctionnalité permet aux utilisateurs de recevoir u
 Affichage du Compteur : Les utilisateurs peuvent incrémenter un compteur en cliquant sur un bouton, avec la valeur actualisée affichée dans l'interface.  
 
 
-##Technologies Utilisées
+## Technologies Utilisées
 
 Android Studio   
 
@@ -33,11 +33,11 @@ Java
 SDK Android version 14.0  
 
 
-##Prérequis
+## Prérequis
 
 Android Studio installé sur votre système.
 
-##Installation
+## Installation
 
 Cloner le dépôt :  
 
@@ -52,7 +52,7 @@ Synchroniser les fichiers Gradle.
 Compiler et exécuter l'application sur un émulateur ou un appareil Android.  
 
 
-##Utilisation
+## Utilisation
 
 Lancez l'application.   
 
@@ -61,6 +61,6 @@ Appuyez sur le bouton "Toast" pour afficher un message court.
 Appuyez sur le bouton "Count" pour incrémenter la valeur du compteur affichée.  
 
 
-##Captures d'écran  
+## Captures d'écran  
 
 <img width="187" alt="toast" src="https://github.com/user-attachments/assets/5c27a8c9-e4f6-4b9d-83cd-7fefecfd6426">
